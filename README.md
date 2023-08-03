@@ -24,6 +24,10 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
+### `screenshot`
+![image](https://github.com/Davibarreto11/Caculator-ReactJS/assets/102602408/fbcf04d8-f26c-401f-be73-8bb1132a73b9)
+
+
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
